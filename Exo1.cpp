@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-  double x; //represente le nombre réel saisi au clavier
+  float x; //represente le nombre réel saisi au clavier
   constexpr float pi=(22/7.0);
 
   cout<<"Entrer un nombre x:  ";
